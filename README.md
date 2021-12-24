@@ -11,10 +11,9 @@
 <h3 align="left">My name is Thairy Daza, I'm a Java Full Stack Developer and Certified Tech Developer by Mercado Libre, Globant and Digital House</h3>
 
 <b>
-- I'm currently studying the Certified Tech Developer specialization in Backend Development at <a href="https://www.digitalhouse.com/ar/acciones/certified-tech-developer">Digital House<a><br>
+- I'm currently studying the Certified Tech Developer Specialization in Backend Development at <a href="https://www.digitalhouse.com/ar/acciones/certified-tech-developer">Digital House<a><br>
 - 
-- 🚴‍♀️ I love roller-skating and fixie bikes but with breaks
-</b>
+- 🚴♀️ I'm really into cycling, hanging out with my friends, books and science fiction literature.
   
 ---  
 
@@ -41,7 +40,7 @@ Get in touch with me through the attached links:  </b>
 
 <p>
 <!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dptha-log&show_icons=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dptha&show_icons=true&hide_border=true" />
 
 <!-- Most Used Languages -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dptha&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
