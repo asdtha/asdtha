@@ -10,8 +10,10 @@
 <h3 align="left">My name is Thairy Daza, but you can call me Thai, I am a Full Stack Developer and Certified Tech Developer 2021 (career designed by Mercado Libre, Globant and Digital House)</h3>
 
 <b>
-- I'll study the Certified Tech Developer Specialization in Backend Development at <a href="https://www.digitalhouse.com/ar/acciones/certified-tech-developer">Digital House<a> in 2022 <br>
-- Im always trying to improve my skills in software development, especially in Java which is what I want to specialize in and work on. I also like everything related to development infrastructure and cloud computing, so I try to learn as much as I can in this field as well.
+- I'll study the Certified Tech Developer Specialization in Backend Development at <a href="https://www.digitalhouse.com/ar/acciones/certified-tech-developer">Digital House<a> in 2022
+  <br>
+- I'm always trying to improve my skills in software development, especially in Java which is what I want to specialize in and work on. I also like everything related to development infrastructure and cloud computing, so I try to learn as much as I can in this field as well.
+  <br>
 - When I'm not programming, I'm probably cycling, hanging out with my friends, watching a movie or reading.
 
 ---  
