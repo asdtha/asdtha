@@ -7,10 +7,10 @@
 
 
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
-<h3 align="left">My name is Thairy Daza, but you can call me Thai, I am a Full Stack Developer and Certified Tech Developer (career designed by Mercado Libre, Globant and Digital House)</h3>
+<h3 align="left">My name is Thairy Daza, but you can call me Thai, I am a Full Stack Developer and Certified Tech Developer 2021 (career designed by Mercado Libre, Globant and Digital House)</h3>
 
 <b>
-- I'm currently studying the Certified Tech Developer Specialization in Backend Development at <a href="https://www.digitalhouse.com/ar/acciones/certified-tech-developer">Digital House<a><br>
+- I'll study the Certified Tech Developer Specialization in Backend Development at <a href="https://www.digitalhouse.com/ar/acciones/certified-tech-developer">Digital House<a> in 2022 <br>
 - When I'm not programming, I'm probably cycling, hanging out with my friends, watching a movie or reading.
   
 ---  
