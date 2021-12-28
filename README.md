@@ -19,7 +19,7 @@
 ---  
 
 <!-- Connect with me -->
-Get in touch with me through the attached links:  </b>
+Get in touch with me:  </b>
 <p align="left">
 <a href="https://www.linkedin.com/in/thairy-daza" target="blank"><img align="center" src="https://github.com/dptha/dptha/blob/main/assets/linkedin.png" alt="linkedin" height="30" width="30" /></a>
 <!-- <a href="mailto:thairydaza@gmail.com" target="blank"><img align="center" src="https://github.com/dptha/dptha/blob/main/assets/gmail.png" alt="gmail" height="30" width="30" /></a> -->
