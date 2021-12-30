@@ -16,7 +16,7 @@
   <br>
 - When I'm not programming, I'm probably cycling, hanging out with my friends, watching a movie or reading.
 
----  
+--- 
 
 <!-- Connect with me 
 Get in touch with me:  </b>
@@ -25,7 +25,7 @@ Get in touch with me:  </b>
 <a href="mailto:thairydaza@gmail.com" target="blank"><img align="center" src="https://github.com/dptha/dptha/blob/main/assets/gmail.png" alt="gmail" height="30" width="30" /></a> -->
 </p>
 
----
+
 
 <!-- Languages and tools -->
 <b>Languages, Frameworks, Libraries and tools</b>
