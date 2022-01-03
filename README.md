@@ -15,7 +15,7 @@
 <b>
 - I'm currently studying the Certified Tech Developer Specialization in Backend Development at <a href="https://www.digitalhouse.com/ar/acciones/certified-tech-developer">Digital House<a>
   <br>
-- I'm always trying to improve my skills in software development, especially in Java which is what I want to specialize in and work on. I also like everything related to development infrastructure and cloud computing, so I try to learn as much as I can in this field as well.
+- I'm always trying to improve my skills in software development, especially in Java which is what I specialize in and work on. I also like everything related to development infrastructure and cloud computing, so I try to learn as much as I can in this field as well.
   <br>
 
 
