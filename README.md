@@ -19,6 +19,8 @@
   <br>
 - I'm always trying to improve my skills in software development and everything related to development infrastructure and cloud computing, so I try to learn as much as I can in this field as well.
   <br>
+- I'm looking for a job where I can learn every day and help achieve my team's goals.
+
 
 
 --- 
