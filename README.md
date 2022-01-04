@@ -3,7 +3,12 @@
 
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
-
+<table>
+  <tr>
+    <td>You are visitor N°</td>
+    <td><img src="https://profile-counter.glitch.me/dptha/count.svg" alt="" /></td>
+  </tr>
+</table>
 
 <h3 align="left">My name is Thairy Daza, but you can call me Thai, I am a Full Stack Java Developer and a Certified Tech Developer (By Mercado Libre, Globant and Digital House)</h3>
 
