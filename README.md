@@ -10,7 +10,7 @@
   </tr>
 </table>
 
-<h3 align="left">My name is Thairy Daza, but you can call me Thai, I am a Full Stack Java Developer and a Certified Tech Developer (By Mercado Libre, Globant and Digital House)</h3>
+<h3 align="left">My name is Thairy Daza, but you can call me Thai, I am a Full Stack Java Developer and a <a href="https://www.digitalhouse.com/ar/acciones/certified-tech-developer">Certified Tech Developer<a> (By Mercado Libre, Globant and Digital House)</h3>
 
 <b>
 - I'm currently studying the Certified Tech Developer Specialization in Backend Development at <a href="https://www.digitalhouse.com/ar/acciones/certified-tech-developer">Digital House<a>
