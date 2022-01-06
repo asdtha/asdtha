@@ -17,9 +17,9 @@
 <h3 align="left">My name is Thairy Daza, but you can call me Thai, I am a Full Stack Developer and a <a href="https://www.digitalhouse.com/ar/acciones/certified-tech-developer">Certified Tech Developer<a> (By Mercado Libre, Globant and Digital House)</h3>
 
 <b>
-- This year I'm going to study a part-time Certified Tech Developer Specialization in Backend Development at <a href="https://www.digitalhouse.com/ar/acciones/certified-tech-developer">Digital House<a>
-  <br>
 - I'm currently in a MERN Fullstack & Mobile Apps Bootcamp, which simulates a real work environment, and where I build projects from scratch under the Scrum methodology at <a href="https://mindhubweb.com/somos">MindHub LA<a>
+  <br>
+- This year I'm going to study a part-time Certified Tech Developer Specialization in Backend Development at <a href="https://www.digitalhouse.com/ar/acciones/certified-tech-developer">Digital House<a>
   <br>
 - I'm always trying to improve my skills in software development and everything related to development infrastructure and cloud computing.
   <br>
