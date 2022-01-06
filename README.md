@@ -21,7 +21,7 @@
   <br>
 - I'm currently in a MERN Fullstack & Mobile Apps Bootcamp, which simulates a real work environment, and where I build projects from scratch under the Scrum methodology at <a href="https://mindhubweb.com/somos">MindHub LA<a>
   <br>
-- I'm always trying to improve my skills in software development and everything related to development infrastructure and cloud computing, so I try to learn as much as I can in this field as well.
+- I'm always trying to improve my skills in software development and everything related to development infrastructure and cloud computing.
   <br>
 - I'm looking for a job where I can learn every day and help achieve my team's goals.
 
