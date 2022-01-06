@@ -23,8 +23,7 @@
   <br>
 - I'm always trying to improve my skills in software development and everything related to development infrastructure and cloud computing.
   <br>
-- I'm looking for a job where I can learn every day and help achieve my team's goals.
-
+- I'm currently looking for my first job as a Full Stack Developer with the goal of continuing to challenge myself both personally and professionally.
 
 
 --- 
