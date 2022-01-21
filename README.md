@@ -19,7 +19,7 @@
 <b>
 - I'm currently in a MERN Fullstack & Mobile Apps Bootcamp at <a href="https://mindhubweb.com/somos">MindHub LA<a>
   <br>
-- This year I'm going to study a part-time Certified Tech Developer Specialization in Backend Development at <a href="https://www.digitalhouse.com/ar/acciones/certified-tech-developer">Digital House<a>
+- Certified Tech Developer Specialization in Backend Development at <a href="https://www.digitalhouse.com/ar/acciones/certified-tech-developer">Digital House<a>
   <br>
 - I'm always trying to improve my skills in software development and everything related to development infrastructure and cloud computing.
   <br>
