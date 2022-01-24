@@ -14,7 +14,7 @@
 
 
 
-<h3 align="left">My name is Thairy Daza, but you can call me Thai, I am a Full Stack Developer and a <a href="https://www.digitalhouse.com/ar/acciones/certified-tech-developer">Professional Developer<a></h3>
+<h3 align="left">My name is Thairy Daza, but you can call me Thai, I am a Full Stack Developer and a <a href="https://www.digitalhouse.com/ar/acciones/certified-tech-developer">Certified Tech Developer<a></h3>
 
 <b>
 - I'm currently in a MERN Fullstack & Mobile Apps Bootcamp at <a href="https://mindhubweb.com/somos">MindHub LA<a>
