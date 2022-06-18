@@ -16,7 +16,7 @@
 <h3 align="left">My name is Thairy, but you can call me Thai.</h3>
 <h4> :computer: I'm currently working on Linux and CloudOps</h4>
 <h4 align="left"> :book: I'm also pursuing an MBA with a specialization in Information Systems Management</h4>
-<h4 align="left"> :wrench::computer: I really enjoy working with technology infrastructure and solving day-to-day problems</h4>
+<!-- <h4 align="left"> :wrench::computer: I really enjoy working with technology infrastructure and solving day-to-day problems</h4> -->
 
 
 
