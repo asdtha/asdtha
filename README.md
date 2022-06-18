@@ -15,7 +15,7 @@
 
 
 <h3 align="left">My name is Thairy, but you can call me Thai. I'm currently working on Linux and CloudOps</h3>
-<h2 align="left">I am also pursuing an MBA with a specialization in information systems management</h2>
+<h4 align="left">I am also pursuing an MBA with a specialization in information systems management</h4>
 
 
 
