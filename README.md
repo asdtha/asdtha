@@ -14,7 +14,7 @@
 
 
 
-<h3 align="left">My name is Thairy Daza, but you can call me Thai. I'm currently working on Linux and CloudOps</h3>
+<h3 align="left">My name is Thairy, but you can call me Thai. I'm currently working on Linux and CloudOps</h3>
 
 
 
