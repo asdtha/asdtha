@@ -4,34 +4,26 @@
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
    <br>  <br>
   <table>
-  <tr>
+  <!--<tr>
     <td>You are visitor N°</td>
     <td><img src="https://profile-counter.glitch.me/dptha/count.svg" alt="" /></td>
   </tr>
-</table> 
+</table> -->
 </h2>
 
 
 
 <h3 align="left">My name is Thairy, but you can call me Thai.</h3>
 <h4> :computer: I'm currently working on Linux and CloudOps</h4>
-<!-- <h4 align="left"> :book: I'm also pursuing an MBA with a specialization in IT Management</h4>
- <h4 align="left"> :wrench::computer: I really enjoy working with technology infrastructure and solving day-to-day problems</h4> 
-
-
-
-
 
 --- 
 
- 
 <!--Get in touch with me:  </b>
 <p align="left">
 <a href="https://www.linkedin.com/in/thairy-daza" target="blank"><img align="center" src="https://github.com/dptha/dptha/blob/main/assets/linkedin.png" alt="linkedin" height="30" width="30" /></a>
 <a href="mailto:thairydaza@gmail.com" target="blank"><img align="center" src="https://github.com/dptha/dptha/blob/main/assets/gmail.png" alt="gmail" height="30" width="30" /></a>  
 </p>-->
-
-
+<br>
 
 <!-- Languages and tools -->
 <b>Languages, Frameworks, Libraries and tools</b>
