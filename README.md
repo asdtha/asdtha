@@ -14,7 +14,7 @@
 
 
 <h3 align="left">My name is Thairy.</h3>
-<h4> :computer: I'm currently working as a Cloud Engineer/DevOps</h4>
+<h4> :computer: I'm currently working as a Cloud Engineer/DevOps at Astropay</h4>
 
 --- 
 
