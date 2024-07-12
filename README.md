@@ -1,6 +1,4 @@
 
-
-
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
    <br>  <br>
   <table>
@@ -20,26 +18,36 @@
 
 Get in touch with me:  </b>
 <p align="left">
-<a href="https://www.linkedin.com/in/thairy-daza" target="blank"><img align="center" src="https://github.com/asdtha/dptha/blob/main/assets/linkedin.png" alt="linkedin" height="30" width="30" /></a><!--
-<a href="mailto:thairydaza@gmail.com" target="blank"><img align="center" src="https://github.com/asdtha/dptha/blob/main/assets/gmail.png" alt="gmail" height="30" width="30" /></a>  
-</p>-->
+<a href="https://www.linkedin.com/in/thairy-daza" target="blank"><img align="center" src="https://github.com/asdtha/dptha/blob/main/assets/linkedin.png" alt="linkedin" height="30" width="30" /></a>
+</p>
 <br>
 
 <!-- Languages and tools -->
-<b>Tech stack</b>
-
-<p> 
-   <a href="https://aws.amazon.com/" target="blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a> 
-   <a href="https://www.elastic.co/" target="blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elk" width="40" height="40"/> </a> 
-   <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="aws" width="40" height="40"/> </a> 
-   <a href="https://www.jenkins.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
-   <a href="https://www.terraform.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a>   <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="50" height="50"/> </a> 
+### Languages and tools ⚙️
+<!--
+1.    <a href="https://aws.amazon.com/" target="blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a> 
+2.    <a href="https://www.elastic.co/" target="blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elk" width="40" height="40"/> </a> 
+3.    <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="aws" width="40" height="40"/> </a> 
+4.    <a href="https://www.jenkins.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
+5.    <a href="https://www.terraform.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a>   <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="50" height="50"/> </a> 
    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gitlab.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/> </a>  
+-->
+<p> 
+  <a href="https://aws.amazon.com/" target="blank"> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="50" height="50"/> </a> 
+<a href="https://www.elastic.co/" target="blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elk" width="50" height="50"/> </a> 
+ <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="aws" width="50" height="50"/> </a> 
+ <a href="https://www.jenkins.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50" height="50"/> </a> 
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="50" height="50"/></a> 
+<a href="https://www.terraform.io/" target="_blank"><img src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png" alt="Terraform Logo" width="50" height="50"/></a> 
+ <a href="https://www.w3.org/html/" target="_blank"><img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="HTML Logo" width="50" height="50"/></a> 
+ <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/></a> <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure Logo" width="50" height="50"/>  <img src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP Logo" width="50" height="50"/>  <img src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" alt="Nginx Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="50" height="50"/> 
+ <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gitlab.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="50" height="50"/> </a>  
 </p>
-  
-
+<br>
 ---
-
+<br>
 <!-- GitHub stats -->
 <b>My GitHub Statistics</b>
 
@@ -53,8 +61,15 @@ Get in touch with me:  </b>
 
 ---
 
-<!-- Stats -->
-<!-- waka time stats-->
-<!--START_SECTION:waka-->
+### My Github Stats 📊
+
+[![](https://raw.githubusercontent.com/asdtha/asdtha/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/asdtha/asdtha/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/asdtha/asdtha/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/asdtha/asdtha/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/asdtha/asdtha/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=asdtha&theme=ads-juicy-fresh)](https://git.io/streak-stats)
+
+---
+<br/>
+
 
 
