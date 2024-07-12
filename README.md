@@ -9,7 +9,7 @@
 </table> -->
 
 <h3 align="left">My name is Thairy.</h3>
-<h4> :computer: I'm currently working as a Cloud Engineer/DevOps at Astropay</h4>
+<h4> :computer: I'm currently working as a Cloud/DevOps Engineer at Astropay</h4>
 
 --- 
 
