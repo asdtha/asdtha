@@ -22,6 +22,8 @@ Get in touch with me:  </b>
 </p>
 <br>
 
+--- 
+
 <!-- Languages and tools -->
 ### Languages and tools ⚙️
 <!--
@@ -46,29 +48,23 @@ Get in touch with me:  </b>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gitlab.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="50" height="50"/> </a>  
 </p>
 <br>
----
+
+
+--- 
+
 <br>
 <!-- GitHub stats -->
 <b>My GitHub Statistics</b>
 
 <p>
 <!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asdtha&show_icons=true&hide_border=true" />
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asdtha&theme=chartreuse-dark&show_icons=true&hide_border=true" />
 <!-- Most Used Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asdtha&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asdtha&theme=chartreuse-dark&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=asdtha&theme=ads-juicy-fresh)](https://git.io/streak-stats)
 </p>
 
 ---
-<!-- Most Used Languages
-### My Github Stats 📊
 
-[![](https://raw.githubusercontent.com/asdtha/asdtha/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/asdtha/asdtha/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/asdtha/asdtha/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/asdtha/asdtha/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/asdtha/asdtha/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=asdtha&theme=ads-juicy-fresh)](https://git.io/streak-stats)
- -->
 <br/>
-
-
-
