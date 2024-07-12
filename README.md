@@ -1,15 +1,12 @@
 
-<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-   <br>  <br>
-  <table>
-  <!--<tr>
+<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
+ 
+  <!-- <table>
+ <tr>
     <td>You are visitor N°</td>
-    <td><img src="https://profile-counter.glitch.me/dptha/count.svg" alt="" /></td>
+    <td><img src="https://profile-counter.glitch.me/asdtha/count.svg" alt="" /></td>
   </tr>
 </table> -->
-</h2>
-
-
 
 <h3 align="left">My name is Thairy.</h3>
 <h4> :computer: I'm currently working as a Cloud Engineer/DevOps at Astropay</h4>
@@ -20,7 +17,6 @@ Get in touch with me:  </b>
 <p align="left">
 <a href="https://www.linkedin.com/in/thairy-daza" target="blank"><img align="center" src="https://github.com/asdtha/dptha/blob/main/assets/linkedin.png" alt="linkedin" height="30" width="30" /></a>
 </p>
-<br>
 
 --- 
 
@@ -47,8 +43,6 @@ Get in touch with me:  </b>
  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gitlab.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="50" height="50"/> </a>  
 </p>
-<br>
-
 
 --- 
 
@@ -58,11 +52,11 @@ Get in touch with me:  </b>
 
 <p>
 <!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asdtha&theme=chartreuse-dark&show_icons=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asdtha&theme=dark&show_icons=true&hide_border=true" />
 <!-- Most Used Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asdtha&theme=chartreuse-dark&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asdtha&theme=dark&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=asdtha&theme=ads-juicy-fresh)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=asdtha&theme=dark)](https://git.io/streak-stats)
 </p>
 
 ---
