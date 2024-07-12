@@ -29,8 +29,8 @@ Get in touch with me:  </b>
 <b>Tech stack</b>
 
 <p> 
-   <a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a> 
-   <a href="https://www.elastic.co/" target="_blank"> <img src="[https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg](https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg)" alt="elk" width="40" height="40"/> </a> 
+   <a href="https://aws.amazon.com/" target="blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a> 
+   <a href="https://www.elastic.co/" target="blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elk" width="40" height="40"/> </a> 
    <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="aws" width="40" height="40"/> </a> 
    <a href="https://www.jenkins.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
    <a href="https://www.terraform.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a>   <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="50" height="50"/> </a> 
