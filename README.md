@@ -13,7 +13,7 @@
 
 
 
-<h3 align="left">You can call me Thai.</h3>
+<h3 align="left">My name is Thairy.</h3>
 <h4> :computer: I'm currently working as a Cloud Engineer/DevOps</h4>
 
 --- 
