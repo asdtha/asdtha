@@ -20,8 +20,8 @@
 
 <!--Get in touch with me:  </b>
 <p align="left">
-<a href="https://www.linkedin.com/in/thairy-daza" target="blank"><img align="center" src="https://github.com/dptha/dptha/blob/main/assets/linkedin.png" alt="linkedin" height="30" width="30" /></a>
-<a href="mailto:thairydaza@gmail.com" target="blank"><img align="center" src="https://github.com/dptha/dptha/blob/main/assets/gmail.png" alt="gmail" height="30" width="30" /></a>  
+<a href="https://www.linkedin.com/in/thairy-daza" target="blank"><img align="center" src="https://github.com/asdtha/dptha/blob/main/assets/linkedin.png" alt="linkedin" height="30" width="30" /></a>
+<a href="mailto:thairydaza@gmail.com" target="blank"><img align="center" src="https://github.com/asdtha/dptha/blob/main/assets/gmail.png" alt="gmail" height="30" width="30" /></a>  
 </p>-->
 <br>
 
@@ -41,7 +41,7 @@
 
 <p>
 <!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dptha&show_icons=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asdtha&show_icons=true&hide_border=true" />
 
 <!-- Most Used Languages -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asdtha&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
