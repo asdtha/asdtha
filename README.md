@@ -46,9 +46,9 @@ Get in touch with me:  </b>
 
 --- 
 
-<br>
+
 <!-- GitHub stats -->
-<b>My GitHub Statistics</b>
+### My Github Stats 📊
 
 <p>
 <!-- GitHub Stats -->
