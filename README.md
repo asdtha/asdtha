@@ -54,7 +54,7 @@
 ## Core Competencies
 
 - **AWS Services**: VPC, EC2, S3, IAM, RDS, CloudFront, Route53, Lambda, DynamoDB, CloudWatch, CloudTrail
-- **Infrastructure as Code**: Terraform modules, CI/CD automation, GitOps workflows
+- **Infrastructure as Code**: Terraform, CI/CD automation, GitOps workflows
 - **Security**: IAM policies, SSM Session Manager, least privilege access, compliance
 - **Monitoring**: ELK Stack, Prometheus, Grafana, CloudWatch, custom alerting solutions
 - **Cost Optimization**: Index lifecycle management, resource optimization, cost analysis
