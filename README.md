@@ -56,8 +56,8 @@
 - **AWS Services**: VPC, EC2, S3, IAM, RDS, CloudFront, Route53, Lambda, DynamoDB, CloudWatch, CloudTrail
 - **Infrastructure as Code**: Terraform, CI/CD automation, GitOps workflows
 - **Security**: IAM, SSM Session Manager, least privilege access, compliance
-- **Monitoring**: ELK Stack, Prometheus, Grafana, CloudWatch, custom alerting solutions
-- **Cost Optimization**: Index lifecycle management, resource optimization, cost analysis
+- **Monitoring**: ELK Stack, Prometheus, Grafana, CloudWatch
+- **Cost Optimization**: Data lifecycle management, resource optimization, cost analysis
 
 ---
 
