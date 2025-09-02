@@ -1,14 +1,14 @@
 # 👋 Hi there, I'm Thairy!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thairy-daza)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/asdtha)
-[![Profile Views](https://komarev.com/ghpvc/?username=asdtha&color=brightgreen&style=for-the-badge)](https://github.com/asdtha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/thairy-daza)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/asdtha)
+[![Profile Views](https://komarev.com/ghpvc/?username=asdtha&color=brightgreen&style=flat-square)](https://github.com/asdtha)
 
-## 🚀 About Me
+## About Me
 
 **Cloud Engineer** specializing in **AWS**, **infrastructure automation**, **CI/CD pipelines**, and **observability**. Passionate about building scalable, reliable and efficient cloud solutions.
 
-### 🎯 What I Do
+### What I Do
 - **Cloud Infrastructure**: Design and implement AWS solutions
 - **DevOps**: Automate deployment pipelines and infrastructure
 - **Monitoring**: Set up comprehensive observability and alerting
@@ -17,39 +17,41 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### **Cloud & Infrastructure** ☁️
+### **Cloud & Infrastructure** 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### **DevOps & CI/CD** 🔄
+### **DevOps & CI/CD** 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
-### **Monitoring & Observability** 📊
+### **Monitoring & Observability** 
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Logstash](https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-### **Operating Systems & Scripting** 💻
+### **Operating Systems & Scripting** 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### **Databases & Security** 🔐
+### **Databases & Security** 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Amazon Aurora](https://img.shields.io/badge/Amazon_Aurora-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![IAM](https://img.shields.io/badge/AWS_IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
-## 🌟 Core Competencies
+## Core Competencies
 
 - **AWS Services**: VPC, EC2, S3, IAM, RDS, CloudFront, Route53, Lambda, DynamoDB, CloudWatch, CloudTrail
 - **Infrastructure as Code**: Terraform modules, CI/CD automation, GitOps workflows
@@ -93,9 +95,4 @@ I'm always open to discussing new opportunities, collaborations or just chatting
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:asdhadevops@gmail.com)
 
 ---
-
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-  <p><em>Thanks for visiting my profile! Feel free to star ⭐ any repositories you find interesting.</em></p>
-</div>
 
