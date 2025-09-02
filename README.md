@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Thairy!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/thairy-daza)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/asdtha)
-[![Profile Views](https://komarev.com/ghpvc/?username=asdtha&color=brightgreen&style=flat-square)](https://github.com/asdtha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/thairy-daza){:target="_blank"}
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:asdhadevops@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=asdtha&color=brightgreen&style=flat-square)](https://github.com/asdtha){:target="_blank"}
 
 ## About Me
 
@@ -91,7 +91,7 @@
 
 I'm always open to discussing new opportunities, collaborations or just chatting about cloud technology!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/thairy-daza)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/thairy-daza){:target="_blank"}
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:asdhadevops@gmail.com)
 
 ---
