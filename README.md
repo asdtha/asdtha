@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Thairy!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thairy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thairy-daza)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/asdtha)
 [![Profile Views](https://komarev.com/ghpvc/?username=asdtha&color=brightgreen&style=for-the-badge)](https://github.com/asdtha)
 
@@ -19,24 +19,43 @@
 
 ## 🛠️ Tech Stack
 
-### **Cloud & Infrastructure**
+### **Cloud & Infrastructure** ☁️
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### **DevOps & CI/CD**
+### **DevOps & CI/CD** 🔄
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
-### **Monitoring & Observability**
+### **Monitoring & Observability** 📊
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Logstash](https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-### **Programming & Scripting**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### **Operating Systems & Scripting** 💻
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### **Databases & Security** 🔐
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Amazon Aurora](https://img.shields.io/badge/Amazon_Aurora-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![IAM](https://img.shields.io/badge/AWS_IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+## 🌟 Core Competencies
+
+- **AWS Services**: VPC, EC2, S3, IAM, RDS, CloudFront, Route53, Lambda, DynamoDB, CloudWatch, CloudTrail
+- **Infrastructure as Code**: Terraform modules, CI/CD automation, GitOps workflows
+- **Security**: IAM policies, SSM Session Manager, least privilege access, compliance
+- **Monitoring**: ELK Stack, Prometheus, Grafana, CloudWatch, custom alerting solutions
+- **Cost Optimization**: Index lifecycle management, resource optimization, cost analysis
 
 ---
 
@@ -53,7 +72,16 @@
 
 ---
 
+## 🏆 Certifications
+
 - **AWS Certified** - Cloud Practitioner, AWS Certified Solutions Architect Associate
+
+---
+
+## 🌍 Languages
+
+- **English**: Full professional proficiency (C1)
+- **Spanish**: Native proficiency
 
 ---
 
@@ -70,3 +98,4 @@ I'm always open to discussing new opportunities, collaborations or just chatting
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
   <p><em>Thanks for visiting my profile! Feel free to star ⭐ any repositories you find interesting.</em></p>
 </div>
+
